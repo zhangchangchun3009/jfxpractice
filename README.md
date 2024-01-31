@@ -1,2 +1,2 @@
 # jfxpractice
-jfx practice. use scene builder to geerate fxml
+jfx practice. use scene builder to generate fxml. a simple contact book application
